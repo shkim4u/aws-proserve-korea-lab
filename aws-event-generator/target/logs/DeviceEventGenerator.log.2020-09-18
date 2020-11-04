@@ -1,0 +1,36 @@
+ WARN ({main} BasicProfileConfigLoader.java[loadProfiles]:96) [2020-09-18 13:50:05,432]: Your profile name includes a 'profile ' prefix. This is considered part of the profile name in the Java SDK, so you will need to include this prefix in your profile name when you reference this profile from your Java code.
+ WARN ({main} BasicProfileConfigLoader.java[loadProfiles]:96) [2020-09-18 13:50:05,486]: Your profile name includes a 'profile ' prefix. This is considered part of the profile name in the Java SDK, so you will need to include this prefix in your profile name when you reference this profile from your Java code.
+ WARN ({main} BasicProfileConfigLoader.java[loadProfiles]:96) [2020-09-18 13:50:05,487]: Your profile name includes a 'profile ' prefix. This is considered part of the profile name in the Java SDK, so you will need to include this prefix in your profile name when you reference this profile from your Java code.
+ WARN ({main} BasicProfileConfigLoader.java[loadProfiles]:96) [2020-09-18 13:50:05,489]: Your profile name includes a 'profile ' prefix. This is considered part of the profile name in the Java SDK, so you will need to include this prefix in your profile name when you reference this profile from your Java code.
+ WARN ({main} BasicProfileConfigLoader.java[loadProfiles]:96) [2020-09-18 13:50:05,490]: Your profile name includes a 'profile ' prefix. This is considered part of the profile name in the Java SDK, so you will need to include this prefix in your profile name when you reference this profile from your Java code.
+ WARN ({main} BasicProfileConfigLoader.java[loadProfiles]:96) [2020-09-18 13:50:05,492]: Your profile name includes a 'profile ' prefix. This is considered part of the profile name in the Java SDK, so you will need to include this prefix in your profile name when you reference this profile from your Java code.
+ INFO ({main} AwsEventGenerator.java[printVersionInfo]:2094) [2020-09-18 19:05:54,250]: 
+################################################################
+Event Generator
+>>> Version: 1.0.0-b32
+################################################################
+
+ INFO ({main} AwsEventGenerator.java[printVersionInfo]:2094) [2020-09-18 19:07:42,589]: 
+################################################################
+Event Generator
+>>> Version: 1.0.0-b32
+################################################################
+
+ INFO ({main} AwsEventGenerator.java[printVersionInfo]:2094) [2020-09-18 19:08:17,618]: 
+################################################################
+Event Generator
+>>> Version: 1.0.0-b32
+################################################################
+
+ INFO ({main} AwsEventGenerator.java[printVersionInfo]:2094) [2020-09-18 19:08:35,737]: 
+################################################################
+Event Generator
+>>> Version: 1.0.0-b32
+################################################################
+
+ INFO ({main} AwsEventGenerator.java[printVersionInfo]:2094) [2020-09-18 19:20:35,049]: 
+################################################################
+Event Generator
+>>> Version: 1.0.0-b32
+################################################################
+

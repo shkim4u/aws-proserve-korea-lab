@@ -1,0 +1,32 @@
+================================================================================
+(OVERALL),SUCCESS
+- Syslog Server: (N/A)
+- Syslog Port: -1
+- Start Datetime: 2020-09-27 15:19:29
+- End Datetime: 2020-09-27 15:20:21
+- Duration: 0:00:51
+--------------------------------------------------------------------------------
+Total Sent Count: 0
+Total Sent Bytes(RAW): 0
+Total Sent Bytes(ENVELOPED): 0
+Daily Sent Count: 0
+Daily Sent Bytes(RAW): 0
+Daily Sent Bytes(ENVELOPED): 0
+================================================================================
+
+================================================================================
+devices/secui_fw4_allow.log,SUCCESS
+- Syslog Server: n/a
+- Syslog Port: 1514
+- Start Datetime: 2020-09-27 15:19:29
+- End Datetime: 2020-09-27 15:20:21
+- Duration: 0:00:51
+--------------------------------------------------------------------------------
+Total Sent Count: 0
+Total Sent Bytes(RAW): 0
+Total Sent Bytes(ENVELOPED): 0
+Daily Sent Count: 0
+Daily Sent Bytes(RAW): 0
+Daily Sent Bytes(ENVELOPED): 0
+================================================================================
+

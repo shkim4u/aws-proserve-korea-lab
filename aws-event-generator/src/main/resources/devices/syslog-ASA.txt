@@ -1,0 +1,268 @@
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1772 to outside:187.17.98.44/8256
+%ASA-6-302013: Built outbound TCP connection 11757 for outside:72.14.205.104/80 (72.14.205.104/80) to inside:187.17.98.44/1772 (187.17.98.44/8256)
+%ASA-6-302014: Teardown TCP connection 11749 for outside:72.21.211.242/80 to inside:187.17.98.44/1758 duration 0:01:07 bytes 38110 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11748 for outside:72.21.211.242/80 to inside:187.17.98.44/1757 duration 0:01:07 bytes 44010 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11745 for outside:216.113.185.90/80 to inside:187.17.98.44/1755 duration 0:01:07 bytes 7652 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11744 for outside:216.113.185.90/80 to inside:187.17.98.44/1754 duration 0:01:07 bytes 7062 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11742 for outside:66.211.160.197/80 to inside:187.17.98.44/1752 duration 0:01:08 bytes 5738 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11738 for outside:66.135.205.14/80 to inside:187.17.98.44/1749 duration 0:01:08 bytes 4176 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11739 for outside:63.215.124.33/80 to inside:187.17.98.44/1750 duration 0:01:08 bytes 1715 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11731 for outside:38.102.35.9/80 to inside:187.17.98.44/1747 duration 0:01:09 bytes 45595 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11723 for outside:72.21.211.242/80 to inside:187.17.98.44/1742 duration 0:01:09 bytes 27359 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11715 for outside:66.135.218.21/80 to inside:187.17.98.44/1741 duration 0:01:09 bytes 4457 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11711 for outside:64.212.198.27/80 to inside:187.17.98.44/1739 duration 0:01:09 bytes 26709 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11712 for outside:64.212.198.27/80 to inside:187.17.98.44/1740 duration 0:01:09 bytes 22097 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11708 for outside:66.135.202.211/80 to inside:187.17.98.44/1738 duration 0:01:10 bytes 2209 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11746 for outside:63.215.124.15/80 to inside:187.17.98.44/1756 duration 0:01:07 bytes 10404 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11706 for outside:63.215.124.15/80 to inside:187.17.98.44/1737 duration 0:01:10 bytes 123694 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11702 for outside:66.135.209.247/80 to inside:187.17.98.44/1736 duration 0:01:11 bytes 35835 TCP Reset-I
+%ASA-6-302014: Teardown TCP connection 11753 for outside:38.102.35.162/80 to inside:187.17.98.44/1765 duration 0:00:30 bytes 0 SYN Timeout
+%ASA-6-305011: Built dynamic UDP translation from inside:187.17.98.44/56132 to outside:187.17.98.44/1188
+%ASA-6-302015: Built outbound UDP connection 11758 for outside:192.31.80.32/53 (192.31.80.32/53) to inside:187.17.98.44/56132 (187.17.98.44/1188)
+%ASA-6-302016: Teardown UDP connection 11758 for outside:192.31.80.32/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 148
+%ASA-6-302015: Built outbound UDP connection 11759 for outside:160.111.252.6/53 (160.111.252.6/53) to inside:187.17.98.44/56132 (187.17.98.44/1188)
+%ASA-6-302016: Teardown UDP connection 11759 for outside:160.111.252.6/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 164
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1773 to outside:187.17.98.44/8257
+%ASA-6-302013: Built outbound TCP connection 11760 for outside:160.111.252.226/80 (160.111.252.226/80) to inside:187.17.98.44/1773 (187.17.98.44/8257)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1774 to outside:187.17.98.44/8258
+%ASA-6-302013: Built outbound TCP connection 11761 for outside:160.111.252.226/80 (160.111.252.226/80) to inside:187.17.98.44/1774 (187.17.98.44/8258)
+%ASA-6-302015: Built outbound UDP connection 11762 for outside:65.55.238.126/53 (65.55.238.126/53) to inside:187.17.98.44/56132 (187.17.98.44/1188)
+%ASA-6-302015: Built outbound UDP connection 11763 for outside:205.128.93.51/53 (205.128.93.51/53) to inside:187.17.98.44/56132 (187.17.98.44/1188)
+%ASA-6-302016: Teardown UDP connection 11762 for outside:65.55.238.126/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 111
+%ASA-6-302016: Teardown UDP connection 11763 for outside:205.128.93.51/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 237
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1775 to outside:187.17.98.44/8259
+%ASA-6-302013: Built outbound TCP connection 11764 for outside:65.54.225.103/443 (65.54.225.103/443) to inside:187.17.98.44/1775 (187.17.98.44/8259)
+%ASA-6-305011: Built dynamic UDP translation from inside:187.17.98.44/56132 to outside:187.17.98.44/1189
+%ASA-6-302015: Built outbound UDP connection 11772 for outside:65.54.240.126/53 (65.54.240.126/53) to inside:187.17.98.44/56132 (187.17.98.44/1189)
+%ASA-6-302015: Built outbound UDP connection 11773 for outside:199.93.44.45/53 (199.93.44.45/53) to inside:187.17.98.44/56132 (187.17.98.44/1189)
+%ASA-6-302016: Teardown UDP connection 11772 for outside:65.54.240.126/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 87
+%ASA-6-302016: Teardown UDP connection 11773 for outside:199.93.44.45/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 221
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1452 to outside:187.17.98.44/8265
+%ASA-6-302013: Built outbound TCP connection 11774 for outside:207.68.179.219/80 (207.68.179.219/80) to inside:187.17.98.44/1452 (187.17.98.44/8265)
+%ASA-6-302015: Built outbound UDP connection 11775 for outside:205.188.157.232/53 (205.188.157.232/53) to inside:187.17.98.44/56132 (187.17.98.44/1189)
+%ASA-6-302015: Built outbound UDP connection 11776 for outside:204.2.178.133/53 (204.2.178.133/53) to inside:187.17.98.44/56132 (187.17.98.44/1189)
+%ASA-6-302016: Teardown UDP connection 11775 for outside:205.188.157.232/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 101
+%ASA-6-302016: Teardown UDP connection 11776 for outside:204.2.178.133/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 126
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1453 to outside:187.17.98.44/8266
+%ASA-6-302013: Built outbound TCP connection 11777 for outside:149.174.133.112/80 (149.174.133.112/80) to inside:187.17.98.44/1453 (187.17.98.44/8266)
+%ASA-6-302014: Teardown TCP connection 11777 for outside:149.174.133.112/80 to inside:187.17.98.44/1453 duration 0:00:00 bytes 862 TCP FINs
+%ASA-6-302015: Built outbound UDP connection 11779 for outside:213.254.204.197/53 (213.254.204.197/53) to inside:187.17.98.44/56132 (187.17.98.44/1189)
+%ASA-6-302016: Teardown UDP connection 11778 for outside:205.188.157.232/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 104
+%ASA-6-302016: Teardown UDP connection 11779 for outside:213.254.204.197/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 176
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1454 to outside:187.17.98.44/8267
+%ASA-6-302013: Built outbound TCP connection 11780 for outside:64.12.128.3/80 (64.12.128.3/80) to inside:187.17.98.44/1454 (187.17.98.44/8267)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1455 to outside:187.17.98.44/8268
+%ASA-6-302013: Built outbound TCP connection 11781 for outside:64.12.128.3/80 (64.12.128.3/80) to inside:187.17.98.44/1455 (187.17.98.44/8268)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1456 to outside:187.17.98.44/8269
+%ASA-6-302013: Built outbound TCP connection 11782 for outside:64.12.128.3/80 (64.12.128.3/80) to inside:187.17.98.44/1456 (187.17.98.44/8269)
+%ASA-6-302015: Built outbound UDP connection 11783 for outside:71.4.100.4/53 (71.4.100.4/53) to inside:187.17.98.44/56132 (187.17.98.44/1189)
+%ASA-6-302016: Teardown UDP connection 11783 for outside:71.4.100.4/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 104
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1457 to outside:187.17.98.44/8270
+%ASA-6-302013: Built outbound TCP connection 11784 for outside:64.212.198.40/80 (64.212.198.40/80) to inside:187.17.98.44/1457 (187.17.98.44/8270)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1458 to outside:187.17.98.44/8271
+%ASA-6-302013: Built outbound TCP connection 11785 for outside:64.212.198.40/80 (64.212.198.40/80) to inside:187.17.98.44/1458 (187.17.98.44/8271)
+%ASA-6-302015: Built outbound UDP connection 11786 for outside:64.236.1.107/53 (64.236.1.107/53) to inside:187.17.98.44/56132 (187.17.98.44/1189)
+%ASA-6-302014: Teardown TCP connection 11784 for outside:64.212.198.40/80 to inside:187.17.98.44/1457 duration 0:00:00 bytes 593 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1459 to outside:187.17.98.44/8272
+%ASA-6-302013: Built outbound TCP connection 11787 for outside:64.212.198.40/80 (64.212.198.40/80) to inside:187.17.98.44/1459 (187.17.98.44/8272)
+%ASA-6-302016: Teardown UDP connection 11786 for outside:64.236.1.107/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 375
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1460 to outside:187.17.98.44/8273
+%ASA-6-302013: Built outbound TCP connection 11788 for outside:64.12.192.44/80 (64.12.192.44/80) to inside:187.17.98.44/1460 (187.17.98.44/8273)
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1454 to outside:187.17.98.44/8267 duration 0:00:30
+%ASA-6-305011: Built dynamic TCP translation from inside:172.31.156.80/1385 to outside:187.17.98.44/8277
+%ASA-6-302013: Built outbound TCP connection 11797 for outside:207.46.19.254/80 (207.46.19.254/80) to inside:172.31.156.80/1385 (187.17.98.44/8277)
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1455 to outside:187.17.98.44/8268 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1456 to outside:187.17.98.44/8269 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1457 to outside:187.17.98.44/8270 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1458 to outside:187.17.98.44/8271 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1459 to outside:187.17.98.44/8272 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1460 to outside:187.17.98.44/8273 duration 0:00:30
+%ASA-6-302014: Teardown TCP connection 11564 for outside:207.36.115.46/80 to inside:172.31.156.80/1382 duration 0:05:25 bytes 575 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11797 for outside:207.46.19.254/80 to inside:172.31.156.80/1385 duration 0:00:00 bytes 5391 TCP Reset-I
+%ASA-6-305011: Built dynamic TCP translation from inside:172.31.156.80/1386 to outside:187.17.98.44/8278
+%ASA-6-302013: Built outbound TCP connection 11798 for outside:207.36.115.46/80 (207.36.115.46/80) to inside:172.31.156.80/1386 (187.17.98.44/8278)
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:207.46.19.254/80 dst inside:187.17.98.44/8277 by access-group "inbound" [0x0, 0x0]
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1275 to outside:187.17.98.44/8279
+%ASA-6-302013: Built outbound TCP connection 11799 for outside:72.14.205.99/80 (72.14.205.99/80) to inside:187.17.98.44/1275 (187.17.98.44/8279)
+%ASA-6-305011: Built dynamic UDP translation from inside:187.17.98.44/56132 to outside:187.17.98.44/1190
+%ASA-6-302015: Built outbound UDP connection 11800 for outside:192.33.14.30/53 (192.33.14.30/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11800 for outside:192.33.14.30/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 373
+%ASA-6-302015: Built outbound UDP connection 11801 for outside:207.228.252.210/53 (207.228.252.210/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11801 for outside:207.228.252.210/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 207
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1276 to outside:187.17.98.44/8280
+%ASA-6-302013: Built outbound TCP connection 11802 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1276 (187.17.98.44/8280)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1277 to outside:187.17.98.44/8281
+%ASA-6-302013: Built outbound TCP connection 11803 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1277 (187.17.98.44/8281)
+%ASA-6-302014: Teardown TCP connection 11802 for outside:199.221.98.165/80 to inside:187.17.98.44/1276 duration 0:00:00 bytes 12853 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1278 to outside:187.17.98.44/8282
+%ASA-6-302013: Built outbound TCP connection 11804 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1278 (187.17.98.44/8282)
+%ASA-6-302014: Teardown TCP connection 11803 for outside:199.221.98.165/80 to inside:187.17.98.44/1277 duration 0:00:00 bytes 5291 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1279 to outside:187.17.98.44/8283
+%ASA-6-302013: Built outbound TCP connection 11805 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1279 (187.17.98.44/8283)
+%ASA-6-302014: Teardown TCP connection 11804 for outside:199.221.98.165/80 to inside:187.17.98.44/1278 duration 0:00:00 bytes 965 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11805 for outside:199.221.98.165/80 to inside:187.17.98.44/1279 duration 0:00:00 bytes 8605 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1280 to outside:187.17.98.44/8284
+%ASA-6-302013: Built outbound TCP connection 11806 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1280 (187.17.98.44/8284)
+%ASA-6-302014: Teardown TCP connection 11806 for outside:199.221.98.165/80 to inside:187.17.98.44/1280 duration 0:00:00 bytes 3428 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1281 to outside:187.17.98.44/8285
+%ASA-6-302013: Built outbound TCP connection 11807 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1281 (187.17.98.44/8285)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1282 to outside:187.17.98.44/8286
+%ASA-6-302013: Built outbound TCP connection 11808 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1282 (187.17.98.44/8286)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1283 to outside:187.17.98.44/8287
+%ASA-6-302013: Built outbound TCP connection 11809 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1283 (187.17.98.44/8287)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1284 to outside:187.17.98.44/8288
+%ASA-6-302013: Built outbound TCP connection 11810 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1284 (187.17.98.44/8288)
+%ASA-6-302014: Teardown TCP connection 11807 for outside:199.221.98.165/80 to inside:187.17.98.44/1281 duration 0:00:00 bytes 2028 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11808 for outside:199.221.98.165/80 to inside:187.17.98.44/1282 duration 0:00:00 bytes 1085 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11809 for outside:199.221.98.165/80 to inside:187.17.98.44/1283 duration 0:00:00 bytes 868 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1285 to outside:187.17.98.44/8289
+%ASA-6-302013: Built outbound TCP connection 11811 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1285 (187.17.98.44/8289)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1286 to outside:187.17.98.44/8290
+%ASA-6-302013: Built outbound TCP connection 11812 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1286 (187.17.98.44/8290)
+%ASA-6-302014: Teardown TCP connection 11810 for outside:199.221.98.165/80 to inside:187.17.98.44/1284 duration 0:00:00 bytes 4439 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1287 to outside:187.17.98.44/8291
+%ASA-6-302013: Built outbound TCP connection 11813 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1287 (187.17.98.44/8291)
+%ASA-6-302014: Teardown TCP connection 11811 for outside:199.221.98.165/80 to inside:187.17.98.44/1285 duration 0:00:00 bytes 914 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11812 for outside:199.221.98.165/80 to inside:187.17.98.44/1286 duration 0:00:00 bytes 871 TCP FINs
+%ASA-6-302015: Built outbound UDP connection 11814 for outside:206.132.100.107/53 (206.132.100.107/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1288 to outside:187.17.98.44/8292
+%ASA-6-302013: Built outbound TCP connection 11815 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1288 (187.17.98.44/8292)
+%ASA-6-302016: Teardown UDP connection 11814 for outside:206.132.100.107/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 384
+%ASA-6-302015: Built outbound UDP connection 11816 for outside:209.8.104.8/53 (209.8.104.8/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11816 for outside:209.8.104.8/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 94
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1289 to outside:187.17.98.44/8293
+%ASA-6-302013: Built outbound TCP connection 11817 for outside:72.246.123.191/80 (72.246.123.191/80) to inside:187.17.98.44/1289 (187.17.98.44/8293)
+%ASA-6-302014: Teardown TCP connection 11815 for outside:199.221.98.165/80 to inside:187.17.98.44/1288 duration 0:00:00 bytes 945 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11813 for outside:199.221.98.165/80 to inside:187.17.98.44/1287 duration 0:00:00 bytes 13284 TCP FINs
+%ASA-6-302015: Built outbound UDP connection 11818 for outside:71.4.100.4/53 (71.4.100.4/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11818 for outside:71.4.100.4/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 104
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1290 to outside:187.17.98.44/8294
+%ASA-6-302013: Built outbound TCP connection 11819 for outside:64.212.198.25/80 (64.212.198.25/80) to inside:187.17.98.44/1290 (187.17.98.44/8294)
+%ASA-6-302016: Teardown UDP connection 9828 for outside:10.60.48.1/67 to NP Identity Ifc:255.255.255.255/68 duration 0:58:46 bytes 58512
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1272 to outside:187.17.98.44/8276 duration 0:00:30
+%ASA-6-302015: Built outbound UDP connection 11820 for outside:198.41.3.39/53 (198.41.3.39/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302015: Built outbound UDP connection 11821 for outside:192.41.162.30/53 (192.41.162.30/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11820 for outside:198.41.3.39/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 168
+%ASA-6-302015: Built outbound UDP connection 11822 for outside:198.41.3.39/53 (198.41.3.39/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11821 for outside:192.41.162.30/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 198
+%ASA-6-302016: Teardown UDP connection 11822 for outside:198.41.3.39/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 150
+%ASA-6-302015: Built outbound UDP connection 11823 for outside:199.7.48.186/53 (199.7.48.186/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11823 for outside:199.7.48.186/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 84
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1291 to outside:187.17.98.44/8295
+%ASA-6-302013: Built outbound TCP connection 11824 for outside:199.7.54.190/80 (199.7.54.190/80) to inside:187.17.98.44/1291 (187.17.98.44/8295)
+%ASA-6-302015: Built outbound UDP connection 11825 for outside:216.168.254.94/53 (216.168.254.94/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11825 for outside:216.168.254.94/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 188
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1292 to outside:187.17.98.44/8296
+%ASA-6-302013: Built outbound TCP connection 11826 for outside:199.7.54.190/80 (199.7.54.190/80) to inside:187.17.98.44/1292 (187.17.98.44/8296)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1293 to outside:187.17.98.44/8297
+%ASA-6-302013: Built outbound TCP connection 11827 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1293 (187.17.98.44/8297)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1294 to outside:187.17.98.44/8298
+%ASA-6-302013: Built outbound TCP connection 11828 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1294 (187.17.98.44/8298)
+%ASA-6-302014: Teardown TCP connection 11827 for outside:199.221.98.165/80 to inside:187.17.98.44/1293 duration 0:00:00 bytes 5964 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1295 to outside:187.17.98.44/8299
+%ASA-6-302013: Built outbound TCP connection 11829 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1295 (187.17.98.44/8299)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1296 to outside:187.17.98.44/8300
+%ASA-6-302013: Built outbound TCP connection 11830 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1296 (187.17.98.44/8300)
+%ASA-6-302014: Teardown TCP connection 11828 for outside:199.221.98.165/80 to inside:187.17.98.44/1294 duration 0:00:00 bytes 6694 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11829 for outside:199.221.98.165/80 to inside:187.17.98.44/1295 duration 0:00:00 bytes 1493 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11830 for outside:199.221.98.165/80 to inside:187.17.98.44/1296 duration 0:00:00 bytes 893 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1297 to outside:187.17.98.44/8301
+%ASA-6-302013: Built outbound TCP connection 11831 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1297 (187.17.98.44/8301)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1298 to outside:187.17.98.44/8302
+%ASA-6-302013: Built outbound TCP connection 11832 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1298 (187.17.98.44/8302)
+%ASA-6-302015: Built outbound UDP connection 11833 for outside:64.233.179.9/53 (64.233.179.9/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11833 for outside:64.233.179.9/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 150
+%ASA-6-302014: Teardown TCP connection 11831 for outside:199.221.98.165/80 to inside:187.17.98.44/1297 duration 0:00:00 bytes 2750 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1299 to outside:187.17.98.44/8303
+%ASA-6-302013: Built outbound TCP connection 11834 for outside:72.14.247.99/80 (72.14.247.99/80) to inside:187.17.98.44/1299 (187.17.98.44/8303)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1300 to outside:187.17.98.44/8304
+%ASA-6-302013: Built outbound TCP connection 11835 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1300 (187.17.98.44/8304)
+%ASA-6-302014: Teardown TCP connection 11832 for outside:199.221.98.165/80 to inside:187.17.98.44/1298 duration 0:00:00 bytes 881 TCP FINs
+%ASA-6-302014: Teardown TCP connection 11835 for outside:199.221.98.165/80 to inside:187.17.98.44/1300 duration 0:00:00 bytes 2202 TCP FINs
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1301 to outside:187.17.98.44/8305
+%ASA-6-302013: Built outbound TCP connection 11836 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1301 (187.17.98.44/8305)
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1302 to outside:187.17.98.44/8306
+%ASA-6-302013: Built outbound TCP connection 11837 for outside:199.221.98.165/80 (199.221.98.165/80) to inside:187.17.98.44/1302 (187.17.98.44/8306)
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1276 to outside:187.17.98.44/8280 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1277 to outside:187.17.98.44/8281 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1278 to outside:187.17.98.44/8282 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1279 to outside:187.17.98.44/8283 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1280 to outside:187.17.98.44/8284 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1281 to outside:187.17.98.44/8285 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1282 to outside:187.17.98.44/8286 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1283 to outside:187.17.98.44/8287 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1284 to outside:187.17.98.44/8288 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1285 to outside:187.17.98.44/8289 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1286 to outside:187.17.98.44/8290 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1287 to outside:187.17.98.44/8291 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1288 to outside:187.17.98.44/8292 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1293 to outside:187.17.98.44/8297 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1294 to outside:187.17.98.44/8298 duration 0:00:30
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1304 to outside:187.17.98.44/8308
+%ASA-6-302013: Built outbound TCP connection 11840 for outside:72.14.205.99/80 (72.14.205.99/80) to inside:187.17.98.44/1304 (187.17.98.44/8308)
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1295 to outside:187.17.98.44/8299 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1296 to outside:187.17.98.44/8300 duration 0:00:30
+%ASA-6-302015: Built outbound UDP connection 11841 for outside:150.148.0.124/53 (150.148.0.124/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302015: Built outbound UDP connection 11842 for outside:216.8.160.2/53 (216.8.160.2/53) to inside:187.17.98.44/56132 (187.17.98.44/1190)
+%ASA-6-302016: Teardown UDP connection 11841 for outside:150.148.0.124/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 318
+%ASA-6-302016: Teardown UDP connection 11842 for outside:216.8.160.2/53 to inside:187.17.98.44/56132 duration 0:00:00 bytes 104
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1305 to outside:187.17.98.44/8309
+%ASA-6-302013: Built outbound TCP connection 11843 for outside:63.215.124.24/80 (63.215.124.24/80) to inside:187.17.98.44/1305 (187.17.98.44/8309)
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1297 to outside:187.17.98.44/8301 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1298 to outside:187.17.98.44/8302 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1299 to outside:187.17.98.44/8303 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1300 to outside:187.17.98.44/8304 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1301 to outside:187.17.98.44/8305 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1302 to outside:187.17.98.44/8306 duration 0:00:30
+%ASA-6-305012: Teardown dynamic TCP translation from inside:187.17.98.44/1303 to outside:187.17.98.44/8307 duration 0:00:30
+%ASA-6-302014: Teardown TCP connection 11843 for outside:63.215.124.24/80 to inside:187.17.98.44/1305 duration 0:00:04 bytes 410333 TCP Reset-I
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-6-305011: Built dynamic TCP translation from inside:187.17.98.44/1306 to outside:187.17.98.44/8310
+%ASA-6-302013: Built outbound TCP connection 11844 for outside:63.215.124.24/80 (63.215.124.24/80) to inside:187.17.98.44/1306 (187.17.98.44/8310)
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
+%ASA-4-106023: Deny tcp src outside:63.215.124.24/80 dst inside:187.17.98.44/8309 by access-group "inbound" [0x0, 0x0]
