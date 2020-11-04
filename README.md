@@ -1,1 +1,1 @@
-# aws-proserve-korea
+# aws-proserve-korea-lab
